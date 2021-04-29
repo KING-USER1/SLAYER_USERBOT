@@ -10,7 +10,7 @@ NAME = os.environ.get("BOT_NICK_NAME")
 BOT =  = str(NAME) if NAME else "SLAYER BOT"
 #op for keinshin
 
-SAMEER = "[SAMEER](https://t.me/sameer_795)"
+SLAYERBOY = "[CREATER](https://t.me/KING_COBRA_TERABAAP)"
 OP = "[SLAYER BOT](https://github.com/KING-USER1/SLAYER_USERBOT)"
 OKAY = "[SUPPORT GROUP](https://t.me/SLAYER_USERBOT_SUPPORT_TEAM)"
 #itna test h aur aage krte h
