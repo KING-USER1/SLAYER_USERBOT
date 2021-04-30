@@ -16,7 +16,7 @@ OKAY = "[SUPPORT GROUP](https://t.me/SLAYER_USERBOT_SUPPORT_TEAM)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
 ALIVE = "SLAYER BOT IS ON🔥 FIRE 🔥" #make by LEGENDX22 for SLAYER BOT
-USERBOT = " HELLO MASTER MY NAME IS SAVAGE BOT I AM A BEST USERBOT 💝"
+USERBOT = " HELLO MASTER MY NAME IS SLAYER BOT I AM A BEST USERBOT 💝"
 EMOJI = "⚡"
 #yrr isko apne bot me aply krne se pehle mere se pooch lena ok
 #aur aage add kruga abhi busy okay 🤔
